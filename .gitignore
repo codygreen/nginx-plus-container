@@ -1,2 +1,5 @@
 nginx-repo.key
 nginx-repo.crt
+nginx-plus-agent/agent.crt
+nginx-plus-agent/agent.key
+.DS_Store
